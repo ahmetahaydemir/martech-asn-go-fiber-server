@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net/netip"
 	"os"
@@ -32,9 +33,12 @@ func main() {
 		defer db.Close()
 		//
 		query := c.IP()
+		queries := c.IPs()
+		fmt.Println(query)
+		fmt.Println(queries)
 		addr, addErr := netip.ParseAddr(query)
 		if addErr != nil {
-			return c.SendString("Invalid Protocol - 1 -" + query)
+			return c.SendString("Invalid Protocol|1|" + query)
 			// panic(addErr)
 		}
 		//
@@ -45,12 +49,12 @@ func main() {
 		}
 		err = db.Lookup(addr).Decode(&record)
 		if err != nil {
-			return c.SendString("Invalid Structure - 2 -" + query)
+			return c.SendString("Invalid Structure|2|" + query)
 			// log.Panic(err)
 		}
 		//
 		if record.ASN == "" {
-			return c.SendString("Invalid Lookup - 3 -" + query)
+			return c.SendString("Invalid Lookup|3|" + query)
 			// log.Panic(err)
 		}
 		// fmt.Println(record.ASN)
@@ -69,7 +73,7 @@ func main() {
 		query := c.Params("value")
 		addr, addErr := netip.ParseAddr(query)
 		if addErr != nil {
-			return c.SendString("Invalid Protocol - 1 - " + query)
+			return c.SendString("Invalid Protocol|1|" + query)
 			// panic(addErr)
 		}
 		//
@@ -80,12 +84,12 @@ func main() {
 		}
 		err = db.Lookup(addr).Decode(&record)
 		if err != nil {
-			return c.SendString("Invalid Structure - 2 -" + query)
+			return c.SendString("Invalid Structure|2|" + query)
 			// log.Panic(err)
 		}
 		//
 		if record.ASN == "" {
-			return c.SendString("Invalid Lookup - 3 - " + query)
+			return c.SendString("Invalid Lookup|3|" + query)
 			// log.Panic(err)
 		}
 		// fmt.Println(record.ASN)
