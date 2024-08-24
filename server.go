@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
+	"net"
 	"net/netip"
 	"os"
 
@@ -21,6 +22,24 @@ func getPort() string {
 
 	return port
 }
+func IsPublicIP(IP net.IP) bool {
+	if IP.IsLoopback() || IP.IsLinkLocalMulticast() || IP.IsLinkLocalUnicast() {
+		return false
+	}
+	if ip4 := IP.To4(); ip4 != nil {
+		switch {
+		case ip4[0] == 10:
+			return false
+		case ip4[0] == 172 && ip4[1] >= 16 && ip4[1] <= 31:
+			return false
+		case ip4[0] == 192 && ip4[1] == 168:
+			return false
+		default:
+			return true
+		}
+	}
+	return false
+}
 func main() {
 	app := fiber.New()
 	app.Use(cors.New())
@@ -34,8 +53,14 @@ func main() {
 		//
 		query := c.IP()
 		queries := c.IPs()
-		fmt.Println(query)
-		fmt.Println(queries)
+		for _, ip := range queries {
+			IP := net.ParseIP(ip)
+			fmt.Println(IP, ":", IsPublicIP(IP))
+			if IsPublicIP(IP) {
+				query = ip
+			}
+		}
+
 		addr, addErr := netip.ParseAddr(query)
 		if addErr != nil {
 			return c.SendString("Invalid Protocol|1|" + query)
@@ -57,9 +82,6 @@ func main() {
 			return c.SendString("Invalid Lookup|3|" + query)
 			// log.Panic(err)
 		}
-		// fmt.Println(record.ASN)
-		// fmt.Println(record.Domain)
-		// fmt.Println(record.Name)
 		//
 		return c.SendString(query + "|" + record.ASN + "|" + record.Name + "|" + record.Domain)
 	})
