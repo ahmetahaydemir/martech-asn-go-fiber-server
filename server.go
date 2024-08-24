@@ -4,11 +4,22 @@ import (
 	"fmt"
 	"log"
 	"net/netip"
+	"os"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/oschwald/maxminddb-golang/v2"
 )
 
+func getPort() string {
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = ":3000"
+	} else {
+		port = ":" + port
+	}
+
+	return port
+}
 func main() {
 	app := fiber.New()
 	//
@@ -83,5 +94,5 @@ func main() {
 		return c.SendString(query + "|" + record.ASN + "|" + record.Name + "|" + record.Domain)
 	})
 	//
-	app.Listen(":3000")
+	app.Listen(getPort())
 }
