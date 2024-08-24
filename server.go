@@ -7,6 +7,7 @@ import (
 	"os"
 
 	"github.com/gofiber/fiber/v2"
+	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/oschwald/maxminddb-golang/v2"
 )
 
@@ -22,6 +23,7 @@ func getPort() string {
 }
 func main() {
 	app := fiber.New()
+	app.Use(cors.New())
 	//
 	app.Get("/asn", func(c *fiber.Ctx) error {
 		db, err := maxminddb.Open("asn.mmdb")
