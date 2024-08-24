@@ -1,0 +1,1024 @@
+AS9121	Turk Telekomunikasyon Anonim Sirketi	isp	6.930.944
+AS16135	TURKCELL ILETISIM HIZMETLERI A.S.	isp	1.708.032
+AS34984	Superonline Iletisim Hizmetleri A.S.	isp	1.486.592
+AS20978	TT Mobil Iletisim Hizmetleri A.S	isp	803.840
+AS15897	Vodafone Telekomunikasyon A.S.	isp	772.096
+AS8386	Vodafone Net Iletisim Hizmetler AS	isp	460.288
+AS15924	Vodafone Net Iletisim Hizmetler AS	isp	427.776
+AS47524	Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.	isp	424.960
+AS12978	ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.	isp	410.880
+AS8517	National Academic Network and Information Center	education	295.936
+AS9021	Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.	hosting	157.184
+AS12735	TurkNet Iletisim Hizmetleri A.S.	isp	135.680
+AS47331	TTNet A.S.	isp	119.040
+AS9095	Istanbul Teknik Universitesi	education	98.304
+AS34296	Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi	isp	82.944
+AS29060	ALKIM BASIN YAYIN ILETISIM LTD. STI.	business	73.728
+AS44558	Netonline Bilisim Sirketi LTD	isp	68.352
+AS8466	Ihsan Dogramaci Bilkent University	education	65.536
+AS2592	Ege University	education	65.536
+AS1967	Middle East Technical University	education	65.536
+AS42926	Radore Veri Merkezi Hizmetleri A.S.	hosting	61.440
+AS43260	DGN TEKNOLOJI A.S.	hosting	50.432
+AS8685	Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.	hosting	43.008
+AS39582	Grid Telekomunikasyon Hizmetleri AS	hosting	32.768
+AS51559	Netinternet Bilisim Teknolojileri AS	hosting	32.256
+AS34619	CIZGI TELEKOMUNIKASYON ANONIM SIRKETI	hosting	29.952
+AS47883	KIBRIS MOBILE TELEKOMUNIKASYON LTD.	isp	28.672
+AS206119	Veganet Teknolojileri ve Hizmetleri LTD STI	isp	27.392
+AS43391	Netdirekt A.S.	hosting	26.368
+AS12296	ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.	hosting	24.576
+AS42910	PremierDC Veri Merkezi Anonim Sirketi	hosting	23.040
+AS8678	Ankara Universitesi Rektorlugu	education	22.272
+AS42807	Aerotek Bilisim Sanayi ve Ticaret AS	hosting	21.504
+AS203963	SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.	hosting	20.992
+AS199484	SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticaret Ltd. Sti.	hosting	20.736
+AS208972	GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI	isp	19.968
+AS57844	SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.	hosting	18.688
+AS43242	Aydogan Communication LTD.	isp	17.920
+AS25145	TEKNOTEL TELEKOMUNIKASYON SANAYI VE TICARET A.S.	hosting	16.640
+AS8869	ATOS BILISIM DANISMANLIK VE MUSTERI HIZMETLERI SANAYI VE TICARET A.S.	business	16.384
+AS60721	Bursabil Teknoloji A.S.	hosting	14.592
+AS48737	DoraTelekom	hosting	13.568
+AS49126	IHS Kurumsal Teknoloji Hizmetleri A.S	hosting	12.544
+AS48678	PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi	hosting	12.288
+AS44565	VITAL TEKNOLOJI TELEKOMUNIKASYON BILGISAYAR HIZMETLERI VE SANAYI TICARET LTD SIRKETI	hosting	12.288
+AS56582	NETFACTOR TELEKOMINIKASYON VE TEKNOLOJI HIZMETLERI SANAYI VE JSC	isp	11.776
+AS47123	TI Sparkle Turkey Telekomunukasyon A.S	hosting	11.776
+AS43352	Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.	hosting	11.776
+AS47952	ICT BULUT BILISIM A.S.	hosting	11.520
+AS8456	Bogazici University	education	10.752
+AS201411	GOKNET iletisim A.S.	isp	10.752
+AS201021	Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri	hosting	10.752
+AS57152	Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI	hosting	10.240
+AS42846	GNET Internet Telekomunikasyon A.S.	hosting	9.472
+AS202254	LIFECELL DIGITAL LTD	isp	9.472
+AS61135	COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.	isp	9.216
+AS43356	Comtech Ticaret LTD.	isp	8.960
+AS198417	DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim Sirket	business	8.448
+AS8721	Hurriyet Gazetecilik & Matbacilik A.S.	hosting	8.192
+AS49467	INETMAR INTERNET HIZMETLERI BILISM TEKNOLOJILERI SANAYI VE TICARET LIMITED	hosting	8.192
+AS24922	Hacettepe Universitesi	education	8.192
+AS24614	Sakarya University	education	8.192
+AS206375	NETSPEED INTERNET A.S.	isp	8.192
+AS13138	Turk Ekonomi Bankasi Anonim Sirketi	business	8.192
+AS12908	Sabanci University	education	8.192
+AS12840	ATP YAZILIM VE TEKNOLOJI A.S.	business	8.192
+AS12729	HSBC BANK ANONIM SIRKETI	business	8.192
+AS211249	Yildiz Teknik Universitesi	education	7.936
+AS51557	Isimtescil Bilisim A.S.	hosting	7.680
+AS29262	Ideal Hosting Teknoloji A.S.	hosting	7.680
+AS48011	Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi	hosting	7.424
+AS44620	Tres Teknoloji A.S.	hosting	7.424
+AS203576	Onur Ekren	hosting	7.424
+AS15464	Ihlas Net A.S.	hosting	7.424
+AS29399	Ramtek Telekomunikasyon Hizmetleri Sanayi Ve Ticaret Limited Sirketi	isp	6.656
+AS21245	MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI	hosting	6.656
+AS208485	Nese Mala trading as Moon Dc	hosting	6.656
+AS12903	Turkiye Garanti Bankasi A.S.	business	6.656
+AS8831	QNB Finansbank A.S.	business	6.144
+AS60707	Kapteyan Bilisim Teknolojileri San. ve Tic. A.S.	hosting	6.144
+AS51540	Fikri DAL	hosting	6.144
+AS47288	FIXNET Telekomunikasyon Limited Sirketi	isp	5.888
+AS210538	Yusuf Kemal TURKMENOGLU	hosting	5.632
+AS197450	SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI	hosting	5.632
+AS50941	Eclit Bilisim Hizmetleri A.S	hosting	5.376
+AS49879	ISIK Bilgisayar Internet ve Yayincilik Hizmetleri	hosting	5.376
+AS212219	HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI	hosting	5.376
+AS209711	MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.	hosting	5.376
+AS207459	TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.	hosting	5.376
+AS202561	High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.	isp	5.376
+AS201160	Dogus Bilgi Islem ve Teknoloji Hizmetleri A.S	hosting	5.376
+AS207279	MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI	hosting	5.120
+AS206505	MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI	hosting	5.120
+AS62425	Mailbox Internet Hizmetleri Ltd. Sti.	hosting	4.864
+AS42868	Niobe Telekomunikasyon Bilisim Teknolojileri Yazilim Danismanlik Sanayi ve Ticaret Ltd. Sti.	hosting	4.864
+AS41155	Orbit Telekom Sanayi ve Ticaret Limited Sirketi	hosting	4.864
+AS197720	TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.	hosting	4.864
+AS47894	VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI	hosting	4.608
+AS3188	Alastyr Telekomunikasyon A.S.	hosting	4.608
+AS196733	Eskisehir Bilisim Iletisim San. ve Tic. A.S.	hosting	4.608
+AS31689	Eastern Mediterranean University	education	4.352
+AS6823	3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.	hosting	4.096
+AS47134	Eczacibasi Bilisim San.ve Tic. A.S.	hosting	4.096
+AS213274	Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.	hosting	4.096
+AS205424	Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.	isp	4.096
+AS204457	Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd	isp	4.096
+AS201632	Anadolu University AS	education	4.096
+AS199366	Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti.	hosting	4.096
+AS198436	GOLDSURF INTERNET LTD	isp	4.096
+AS12794	AKNET AKBANK	business	4.096
+AS59674	Erhan Mahmut trading as "Aysima Bilisim Teknolojileri"	hosting	3.840
+AS209737	Meric Internet Teknolojileri A.S.	hosting	3.840
+AS20649	FS Veri Merkezi Internet Teknolojileri Limited Sirketi	hosting	3.840
+AS201863	Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S.	hosting	3.840
+AS200239	Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti.	hosting	3.840
+AS197143	Netcen Teknoloji Ltd. Sti	hosting	3.840
+AS49334	SH ONLINE ILETISIM ANONIM SIRKETI	hosting	3.584
+AS47585	Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi	hosting	3.584
+AS213245	ICT TELEKOMUNIKASYON SANAYI TICARET A.S.	isp	3.584
+AS213145	FIBIM FIBERNET GSM SANAYI VE TICARET ANONIM SIRKETI	isp	3.584
+AS209604	ibrahim tufek	hosting	3.584
+AS206991	Iksir Internet Hizmetleri A.S.	hosting	3.584
+AS201178	Euronet Telekomunikasyon A.S.	hosting	3.584
+AS51695	NETAS TELEKOMUNIKASYON A.S.	isp	3.328
+AS42724	TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi	hosting	3.328
+AS34476	Vayfi Bilgi Teknolojileri A.S.	isp	3.328
+AS210574	YUNUS EMRE ATILGAN trading as POYRAZ HOSTING	hosting	3.328
+AS205463	Pembe Gul Isguzar Karagoz	hosting	3.328
+AS62211	VODAFONE MOBILE OPERATIONS LTD.	isp	3.072
+AS61345	FLYTOM NETWORKS LTD	isp	3.072
+AS209853	Veridyen Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi	hosting	3.072
+AS209154	GEBZE ORGANIZE SANAYI BOLGESI	isp	3.072
+AS201364	TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI	hosting	3.072
+AS198208	KKTC Telekom	isp	3.072
+AS12444	TELNET TELEKOM HIZMETLERI ANONIM SIRKETI	isp	3.072
+AS9074	KOC SISTEM BILGI VE ILETISIM HIZMETLERI ANONIM SIRKETI	hosting	2.816
+AS9000	Eser Telekom	isp	2.816
+AS60446	Datema Bilisim Ticaret Anonim Sirketi	hosting	2.816
+AS41296	Anadolu Bilisim Hizmetleri A.S.	hosting	2.816
+AS210099	TIGOVA BILISIM A.S.	hosting	2.816
+AS2872	Netcity Bilisim Teknolojileri Yazilim Internet Ve Iletisim Hizmetleri A.S	isp	2.560
+AS209828	Genc BT Bilisim Teknolojileri Limited Sirketi	hosting	2.560
+AS207709	CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI	hosting	2.560
+AS202505	NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI	hosting	2.560
+AS201079	AKA Bilisim Yazilim Arge Ins. Taah. San. Tic. A.S.	hosting	2.560
+AS198325	Yeni Telekom Internet Hizmetleri Ltd. Sirketi	isp	2.560
+AS12599	ATLAS ON-LINE	hosting	2.560
+AS61418	Glasshouse Bilgi Sistemleri Ticaret Anonim Sirketi	hosting	2.304
+AS60847	Karel Iletisim Hizmetleri A.S.	hosting	2.304
+AS58059	WIFIBER HABERLESME TEKNOLOJILERI VE ILETISIM HIZMETLERI SAN VE TIC LTD STI	hosting	2.304
+AS50875	NESS VERI ILETISIM TEKNOLOJILERI SAN. VE TIC A.S.	hosting	2.304
+AS47721	Murat Aktas	hosting	2.304
+AS41902	TURKUVAZ HABERLESME VE YAYINCILIK A.S.	hosting	2.304
+AS216383	ONLINE SERVER TELEKOMUNIKASYON LIMITED SIRKETI	hosting	2.304
+AS211557	TAYNET TEKNOLOJI TICARET LIMITED SIRKETI	hosting	2.304
+AS207633	KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI	hosting	2.304
+AS207326	HostLAB Bilisim Teknolojileri A.S.	hosting	2.304
+AS199608	Birbir Internet Teknolojileri Sanayi ve Ticaret Limited Sirketi	hosting	2.304
+AS197654	Eczacibasi Bilisim San.ve Tic. A.S.	hosting	2.304
+AS12861	Vestel Elektronik Sanayi ve Ticaret A.S.	hosting	2.304
+AS12777	Eser Telekom	isp	2.304
+AS9215	Vmind Bilgi Teknolojileri Anonim Sirketi	hosting	2.048
+AS59886	Layer Sistem tic. ltd. sti.	hosting	2.048
+AS58151	National Library of Turkey	government	2.048
+AS57935	Nrp Teknoloji Limited Sirketi	hosting	2.048
+AS56643	Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti	hosting	2.048
+AS52033	AA TELEKOMUNIKASYON BILISIM TEKNOLOJI SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI	hosting	2.048
+AS51625	Turkish Airlines Inc.	hosting	2.048
+AS50019	TURKLOKASYON TELEKOM VE BILISIM TEKNOLOJILERI	hosting	2.048
+AS49840	Enson Net Ltd	isp	2.048
+AS48319	TUVTURK Kuzey Tasit Muayene Istasyonlari Yapim ve Isletim A.S.	business	2.048
+AS47436	Omer Faruk Demirci	hosting	2.048
+AS44637	KPMG Bagimsiz Denetim ve SMMM A.S.	business	2.048
+AS43716	Istanbul Deniz Otobusleri San.Tic.A.S	business	2.048
+AS34403	ING BANK ANONIM SIRKETI	hosting	2.048
+AS28746	TELCOROUTE TELEKOMUNIKASYON A.S.	isp	2.048
+AS211871	OWEB Bilisim Teknolojileri A.S.	hosting	2.048
+AS211225	Ecozum Bilgi Teknolojileri A.S	hosting	2.048
+AS206163	TBTNET TELEKOM LTD. STI.	isp	2.048
+AS202991	Netdirekt A.S.	isp	2.048
+AS201928	NETIYI TELEKOMUNIKASYON INTERNET. BILG. HIZ. TIC. SAN. LTD. STI.	hosting	2.048
+AS201128	Bilintel Bilisim Ticaret Limited Sirketi	hosting	2.048
+AS62095	DT Iletisim Hizmetleri A.S.	hosting	1.792
+AS44547	NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI	hosting	1.792
+AS43331	KOC SISTEM BILGI VE ILETISIM HIZMETLERI ANONIM SIRKETI	business	1.792
+AS42626	ATATURK-UNIVERSITESI	education	1.792
+AS42216	Yasar Sen trading as Alapli Teknoloji	hosting	1.792
+AS39095	TURKIYE VAKIFLAR BANKASI TAO	hosting	1.792
+AS35185	Kuveyt Turk Katilim Bankasi A.S.	hosting	1.792
+AS34684	Allianz Sigorta A.S.	business	1.792
+AS212598	SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.	hosting	1.792
+AS212249	EG Veri Merkezi Teknoloji Ltd. Sti.	hosting	1.792
+AS207782	ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.	isp	1.792
+AS207474	Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi	isp	1.792
+AS206192	Eclit Bilisim Hizmetleri A.S	hosting	1.792
+AS12891	Genel Kurmay Baskanligi	hosting	1.792
+AS62077	DT Iletisim Hizmetleri A.S.	hosting	1.536
+AS61347	KAREL ELEKTRONIK SANAYI VE TICARET A. S.	hosting	1.536
+AS50264	LC WAIKIKI MAGAZACILIK HIZMETLERI TICARET	business	1.536
+AS49632	Datatelekom Bilgisayar Internet Bilisim Yazilim ve Telekomunikasyon Hizmetleri San ve Dis Tic Ltd Sti	isp	1.536
+AS42584	NGN Bilgi Teknolojileri Veri Merkezi ve Danismanlik Hizmetleri A.S.	hosting	1.536
+AS42421	Turkiye Finans Katilim Bankasi A.S	business	1.536
+AS215567	EMIRHAN KURT	hosting	1.536
+AS213002	DH Bilisim Teknolojileri San. ve Tic. Ltd. Sti.	hosting	1.536
+AS211709	TURBO NET TELEKOMUNIKASYON ELEKTRONIK HABERLESME BILISIM HIZMETLERI SANAYI TICARET LTD STI	isp	1.536
+AS209956	Telkoturk Iletisim Hizmetleri A.S.	isp	1.536
+AS207620	Kentwifi Iletisim Hizmetleri LTD Sirketi	isp	1.536
+AS207582	Emre Mert Delidere trading as Buuldy Bilisim	hosting	1.536
+AS204918	ARINET SECURITY & INTERNET CONSULTANCY LTD	isp	1.536
+AS202790	Netwifi Iletisim Hizmetleri Ltd. Sti.	isp	1.536
+AS201520	Dedicated Telekomunikasyon Teknoloji Hiz. Tic. San. LTD. STI.	hosting	1.536
+AS15755	VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI	hosting	1.536
+AS60146	Konya Organize Sanayi	isp	1.280
+AS58293	ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.	isp	1.280
+AS57834	Bp Petrolleri A.S	hosting	1.280
+AS50090	D ELEKTRONIK SANS OYUNLARI VE YAYINCILIK A.S.	business	1.280
+AS48292	Ciklet Tasarim Iletisim ve Org. Tic. Ltd. Sti.	hosting	1.280
+AS47516	Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri	hosting	1.280
+AS43417	Borusan Holding A.S.	business	1.280
+AS42083	Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.	isp	1.280
+AS33830	Bankalararasi Kart Merkezi AS	business	1.280
+AS29549	T.C. Ziraat Bankasi A.S.	business	1.280
+AS29434	Denizbank A.S.	business	1.280
+AS29144	Borsa Istanbul A.S.	business	1.280
+AS215761	Muhammed Fatih ASAN	hosting	1.280
+AS215371	TC Cumhurbaskanligi Idari Isler Baskanligi	government	1.280
+AS213257	Meric Internet Teknolojileri A.S.	hosting	1.280
+AS213157	FI TELEKOMUNIKASYON VE BILISIM SISTEMLERI SAN. TIC. LTD. STI	isp	1.280
+AS211804	Ozan Yildiz trading as Sistemdc webhosting and server services	hosting	1.280
+AS209799	Team Bilgi Teknolojileri Limited Sirketi	hosting	1.280
+AS209490	TURKIYE EMLAK KATILIM BANKASI ANONIM SIRKETI	business	1.280
+AS209380	Arat Telekominikasyon Tek. Bil.Hiz.San. ve Tic. Ltd.Sti	isp	1.280
+AS209275	NETMAX TELEKOMUNIKASYON ILETISIM HIZMETLERI TICARET LIMITED SIRKETI	isp	1.280
+AS209007	WIFI TELEKOM BILISIM SANAYI VE TICARET ANONIM SIRKETI	isp	1.280
+AS208821	DURU INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI	isp	1.280
+AS208594	Netbone Telekomunikasyon A.S.	hosting	1.280
+AS207983	Codit Teknoloji Tic. Ltd. Sti.	hosting	1.280
+AS207429	Kapteyan Bilisim Teknolojileri San. ve Tic. A.S.	hosting	1.280
+AS207263	TUBITAK-BILGEM	government	1.280
+AS205953	NAZNET Bilisim ve Telekomunikasyon Elektronik Haberlesme Hiz. ith. ihr. San. ve Tic. Ltd. sti.	isp	1.280
+AS205893	WIFI TELEKOM BILISIM SANAYI VE TICARET ANONIM SIRKETI	isp	1.280
+AS205570	SIBA BILISIM TELEKOMUNIKASYON ELEKTRONIK ITH. IHR. LTD. STI.	isp	1.280
+AS204209	BIZIM INTERNET VE BILISIM TEKNOLOJILERI SAN. VE TIC.LTD.STI.	isp	1.280
+AS203925	Ziraat Katilim Bankasi AS	business	1.280
+AS202365	Omer GOLGELI	hosting	1.280
+AS199907	RADE Bilisim Anonim Sirketi	hosting	1.280
+AS198970	VERIMOR TELEKOMUNIKASYON A.S.	business	1.280
+AS8467	Ihsan Dogramaci Bilkent University	education	1.024
+AS61966	FMA Bilisim Teknolojileri Sanayi ve Ticaret LTD STI	hosting	1.024
+AS61132	TGS YER HIZMETLERI JSC	business	1.024
+AS61084	Mehmet Selim Sahin	hosting	1.024
+AS60896	Sistem Network Company Ltd.	business	1.024
+AS60647	MERT TURKOGLU trading as DATAHOST INTERNET VE BILISIM TEKNOLOJILERI	hosting	1.024
+AS60607	ICENET TELEKOM HIZMETLERI ANONIM SIRKETI	isp	1.024
+AS60027	DTV Haber ve Gorsel Yayincilik A.S.	business	1.024
+AS56727	Ozyegin University	education	1.024
+AS5474	TOBB Economics and Technology University	education	1.024
+AS51791	Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri	hosting	1.024
+AS51321	ALB MENKUL DEGERLER AS	hosting	1.024
+AS50055	HURKUS HAVAYOLU TASIMACILIK VE TICARET A.S.	business	1.024
+AS49067	10LINE TELEKOMUNIKASYON INTERNET VE ILETISIM HIZ A.S.	isp	1.024
+AS48895	Alternatifbank A.S.	business	1.024
+AS44639	Isik University	education	1.024
+AS44319	Sef Bilisim Hizmetleri A.S.	hosting	1.024
+AS43677	Birlesik Odeme Hizmetleri ve Elektronik Para A.S	hosting	1.024
+AS42287	KKTC Merkez Bankasi	business	1.024
+AS42075	Netdirekt A.S.	hosting	1.024
+AS40987	BANQ TECH BILGI VE ILETISIM TEKNOLOJILERI LIMITED SIRKETI	hosting	1.024
+AS39615	DURU INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI	isp	1.024
+AS39172	Merkezi Kayit Kurulusu Anonim Sirketi	business	1.024
+AS35509	Superonline Iletisim Hizmetleri A.S.	isp	1.024
+AS35474	METRO GROSMARKET BAKIRKOY ALV. HIZ. TIC. LTD. STI.	business	1.024
+AS35080	Vodafone Net Iletisim Hizmetler AS	business	1.024
+AS34987	eva bilgi teknolojileri san ve tic ltd sti	hosting	1.024
+AS34418	GLOBAL BILGI PAZARLAMA DANISMANLIK VE CAGRI SERVISI HIZMETLERI A.S.	business	1.024
+AS33856	Turkiye Cumhuriyet Merkez Bankasi Anonim Sirketi	government	1.024
+AS31541	Krea Icerik Hizmetleri ve Produksiyon A.S	business	1.024
+AS29483	Turk Bankasi Ltd	business	1.024
+AS216018	HASNET Bilgi Teknolojileri Ticaret Ltd. Sti.	hosting	1.024
+AS215977	TUBITAK MAM	government	1.024
+AS215790	UNLU MENKUL DEGERLER A.S.	hosting	1.024
+AS215739	BULUTSA BILISIM SANAYI VE TICARET ANONIM SIRKETI	hosting	1.024
+AS215383	TYG TURKEY Elektronik Ticaret Hizmetleri ve Yatirimlari Anonim Sirketi	hosting	1.024
+AS215238	IRFAN TUGRA ONEM	hosting	1.024
+AS215073	Erhan Yigit Er trading as IP ve Yazilim Hizmetleri	hosting	1.024
+AS215027	OVABIL INTERNET VE BILISIM HIZMETLERI LIMITED SIRKETI	hosting	1.024
+AS214466	AE OLFE TEKNOLOJI VE TICARET LIMITED SIRKETI	hosting	1.024
+AS213301	SURVIVOR Bilisim Teknolojileri A.S.	hosting	1.024
+AS212953	MRS Bilisim ve Telekomunikasyon Hiz. Ltd. Sti.	hosting	1.024
+AS212905	SPEED NET INTERNET ILETISIM HABERLESME TIC.LTD.STI	isp	1.024
+AS212301	Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi	hosting	1.024
+AS212285	Linyit Net Telekomunikasyon Hizmetleri Sanayi ve Ticaret Ltd. Sti.	isp	1.024
+AS212167	Pamukkale University	education	1.024
+AS211859	Ozkula Internet Hizmetleri Tic. LTD. STI.	hosting	1.024
+AS211567	Bitwise Yazilim Internet Ve Ticaret Limited Sirketi	hosting	1.024
+AS211401	Atak Domain Bilgi Teknolojileri A.S.	hosting	1.024
+AS210178	Skyfibernet Telekomunikasyon Internet ve Iletisim Hizmetleri Ticaret Limited Sirketi	isp	1.024
+AS210164	COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.	hosting	1.024
+AS210107	PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI	hosting	1.024
+AS209500	WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI	hosting	1.024
+AS209474	EKIPHOST BILISIM TEKNOLOJILERI TICARET VE SANAYI LIMITED SIRKETI	hosting	1.024
+AS209441	Tekfen Holding Anonim Sirketi	business	1.024
+AS209189	Antalya Ticaret ve Sanayi Odasi	business	1.024
+AS209171	Turkiye Cumhuriyeti Icisleri Bakanligi	government	1.024
+AS209088	Enerjisa Uretim Santralleri A.S.	business	1.024
+AS208999	TELSAM TELEKOMUNIKASYON YAZILIM SANAYI VE TICARET LTD STI	hosting	1.024
+AS208961	IGDAS ISTANBUL GAZ DAGITIM SAN. VE TIC. A.S.	hosting	1.024
+AS208952	Park Holding A.S.	business	1.024
+AS208799	Carrefoursa Carrefour Sabanci Ticaret Merkezi Anonim Sirketi	hosting	1.024
+AS208359	BMC Otomotiv Sanayi ve Ticaret A.S	hosting	1.024
+AS208138	Toprak Mahsulleri Ofisi Genel Mudurlugu	government	1.024
+AS208012	Hayalnet Telekomunikasyon Iletisim Ticaret Limited Sirketi	isp	1.024
+AS208002	NG BILGI TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI	hosting	1.024
+AS207787	Orbit Telekom Sanayi ve Ticaret Limited Sirketi	hosting	1.024
+AS206887	Istanbul Medeniyet Universitesi	education	1.024
+AS206849	OyunYoneticisi Marketing LTD	business	1.024
+AS206556	Izmir Buyuksehir Belediyesi	business	1.024
+AS206449	Gunes Express Havacilik A.S	business	1.024
+AS206328	Nitro internet ticaret limited sirketi	isp	1.024
+AS206008	Basefiks Bilisim Teknolojileri Ithalat Ihracat Taahhut Ticaret Limited Sirketi	business	1.024
+AS205961	EREEY GRUP BILISIM TEKNOLOJILERI TIC. LTD. STI.	hosting	1.024
+AS205935	Farknet Telekomunikasyon ve Bilisim Hizmetleri Ltd. Sti.	isp	1.024
+AS205877	TURUNCUNET ILETISIM SAN. TIC. LTD. STI.	isp	1.024
+AS205852	ISTTELKOM ISTANBUL ELEKTRONIK HABERLESME VE ALTYAPI HIZMETLERI SANAYI VE TICARET ANONIM SIRKETI	isp	1.024
+AS205768	FIBERIX ILETISIM HIZMETLERI LTD. STI.	isp	1.024
+AS205381	Mitues Global Teknolojiler Ltd. Sti.	business	1.024
+AS205335	Posta ve Telgraf Teskilati Anonim Sirketi	government	1.024
+AS205192	Hacer Yavuz trading as Omur Bilisim Teknolojileri	hosting	1.024
+AS204912	Turkiye Kizilay Dernegi	hosting	1.024
+AS204736	Nida Telekomunikasyon Hizmetleri A.S.	isp	1.024
+AS204348	Rekornet Telekomunikasyon Ve Bilisim Hizmetleri Ltd. Sirketi	isp	1.024
+AS203810	CND Medya Reklam ve Internet Hizmetleri Tic. Ltd. Sti.	hosting	1.024
+AS203606	Sigortaladim Sigorta ve Reasurans Brokerlik AS	business	1.024
+AS203399	Extranet Iletisim Hizmetleri A.S.	isp	1.024
+AS203393	Onetra Bilisim Teknolojileri San. Tic. LTD. STI.	hosting	1.024
+AS203377	Mehmet Uzunca	hosting	1.024
+AS203289	TRT Yeni Medya Kanal Koordinatorlugu	business	1.024
+AS202859	VAKIF KATILIM BANKASI A.S.	business	1.024
+AS202536	Kadir Kurt trading as Isim Kayit Bilisim	hosting	1.024
+AS202494	Turkiye Petrol Rafinerileri Anonim Sirketi TUPRAS	business	1.024
+AS202130	Bida Teknoloji Hizmetleri A.S.	business	1.024
+AS201336	IGA HAVALIMANI ISLETMESI A S	business	1.024
+AS201274	Andrei Bukharov	isp	1.024
+AS201086	Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri	hosting	1.024
+AS200456	VERIGOM TELEKOMUNIKASYON LIMITED SIRKETI	hosting	1.024
+AS199419	LIMON BILGI TEKNOLOJILERI ANONIM SIRKETI	hosting	1.024
+AS15843	Galatasaray Universitesi	education	1.024
+AS8947	Anadolubank A.S.	business	768
+AS60096	Kyndryl Global Services Is ve Teknoloji Hizmetleri ve Ticaret Limited Sirketi	hosting	768
+AS58127	Cdnbt Bilgi Teknolojileri ve Hizmetleri Limited Sirketi	isp	768
+AS56650	TAV Bilisim Hizmetleri A.S.	business	768
+AS51814	Yeninet Fiber internet Limited Sirketi	isp	768
+AS51703	ERCIYES ANADOLU HOLDING A.S.	business	768
+AS51683	Protahub Telekomunikasyon ve Bilisim Teknolojileri AS	isp	768
+AS50565	Muzaffer Guler	hosting	768
+AS49175	Gedik Yatirim Menkul Degerler A.S.	business	768
+AS48811	Atilim Universitesi	education	768
+AS47951	Armeva Yazilim ve Danismanlik Anonim Sirketi	hosting	768
+AS43231	KARBIL YAZILIM VE BILISIM TEKNOLOJILERI TIC. A.S.	business	768
+AS39841	NETGSM Iletisim ve Bilgi Teknolojileri A.S.	business	768
+AS35367	Bilesim Alternatif Dagitim Kanallari A.S.	business	768
+AS34755	Turkiye Odalar ve Borsalar Birligi	business	768
+AS34593	ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.	business	768
+AS31645	Burgan Bank A.S.	business	768
+AS29189	AXA Holding A.S.	business	768
+AS216445	BURAK BAHADIR EGEMEN	hosting	768
+AS216192	hiperonline iletisim hizmetleri san. tic. ltd. sti.	isp	768
+AS215645	Kayizer Teknoloji Ltd. Sti.	hosting	768
+AS215391	CAFER ESER	hosting	768
+AS215155	HALIL OMER TEKIN	hosting	768
+AS215039	Semih Gokcalik	hosting	768
+AS213309	Marmara University	education	768
+AS213252	Cenuta Telekomunikasyon Anonim Sirketi	hosting	768
+AS213212	FixCloud Teknoloji A.S.	business	768
+AS211953	HIPERNET TELEKOMUNIKASYON BILISIM SANAYI VE TICARET LIMITED SIRKETI	isp	768
+AS211560	Muhammet Ugur Ozturk	hosting	768
+AS209714	CEREN NET BILISIM TELEKOMUNIKASYON HABERLESME TIC.LTD.STI.	isp	768
+AS209371	Enes Senturk trading as Online Sunucu	hosting	768
+AS208095	Internetten Teknoloji Bilisim Sanayi ve Ticaret Ltd. Sti.	hosting	768
+AS207617	ELMA TELEKOMUNIKASYON SAN.TIC.LTD.STI.	isp	768
+AS205829	Logo Yazilim Sanayi ve Ticaret Anonim Sirketi	business	768
+AS205733	HOSTIFOX INTERNET VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI	hosting	768
+AS205725	Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirketi	business	768
+AS203216	Sonet Internet Erisim Hizmetleri San. ve Tic. LTD. STI	isp	768
+AS202557	MIGROS TICARET ANONIM SIRKETI	business	768
+AS201688	Bilgi Teknolojileri ve iletisim Kurumu	government	768
+AS201618	Istanbul Metropolitan Municipality	government	768
+AS199402	SIAFLEX Bilisim Anonim Sirketi	hosting	768
+AS198497	Sipay Elektronik Para ve Odeme Hizmetleri A.S.	isp	768
+AS197912	Aktek Bilgi Iletisim Teknolojisi Sanayi Ve Ticaret AS	hosting	768
+AS6707	D-Market Elektronik Hizmetler Tic. A.S.	business	512
+AS60993	Total Soft SA	business	512
+AS60056	YATIRIM FINANSMAN MENKUL DEGERLER ANONIM SIRKETI	business	512
+AS58203	Turk Traktor Ve Ziraat Makinalari A.S.	business	512
+AS57922	Virtara Group Bilisim Teknolojileri Ticaret Limited Sirketi	hosting	512
+AS51801	INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI	isp	512
+AS49861	SAHSUVAROGLU MARINA GAYRIMENKUL TURIZM YATIRIMLARI ANONIM SIRKETI	business	512
+AS48313	Aksigorta Anonim Sirketi	business	512
+AS44714	SERVUDC VERI MERKEZI A.S.	hosting	512
+AS44028	Sestek Ses ve Iletisim Bilgisayar Teknolojileri San. ve Tic. A.S.	business	512
+AS43479	TELCOBT BILGI TEKNOLOJILERI SAN. VE TIC. LTD. STI.	hosting	512
+AS42193	Hayat Kimya A.S.	business	512
+AS41801	Datafon Teknoloji San.Tic.Ltd.Sti.	hosting	512
+AS41735	Albaraka Turk Katilim Bankasi A.S.	business	512
+AS41077	Pegasus Hava Tasimaciligi A.S.	hosting	512
+AS39298	SERI BILGI TEKNOLOJILERI DESTEK HIZMETLERI VE TICARET LIMITED SIRKETI	hosting	512
+AS38920	Turkland Bank A.s.	business	512
+AS34996	Anadolu Anonim Turk Sigorta Sirketi	business	512
+AS34478	TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma Enstitusu	government	512
+AS31471	Ziraat Teknoloji AS.	business	512
+AS30734	METIS BILGISAYAR SISTEMLERI SANAYI VE TICARET A.S.	business	512
+AS28967	FIBABANKA ANONIM SIRKETI	business	512
+AS28865	Sekerbank T.A.S.	hosting	512
+AS25323	YAPI VE KREDI BANKASI A.S.	hosting	512
+AS24667	Petrol Ofisi AS	business	512
+AS216385	Dijital Bilisim Teknoloji Hizmetleri San. Tic. Ltd. Sti.	hosting	512
+AS216146	NESNET INTERNET HIZMETLERI TICARET ANONIM SIRKETI	hosting	512
+AS216095	Kartaca Bilisim A.S.	business	512
+AS215911	MYWIFI TELEKOMUNIKASYON SANAYI TICARET LIMITED SIRKETI	hosting	512
+AS215822	DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim Sirket	business	512
+AS215622	MECRA BILISIM	hosting	512
+AS213261	SADENET TELEKOMUNIKASYON HIZMETLERI ANONIM SIRKETI	isp	512
+AS213083	Telekomat Haberlesme ve Iletisim Hiz. Tic. Ltd. Sti.	isp	512
+AS212805	SAMSUN YURT SAVUNMA SANAYI VE TICARET ANONIM SIRKETI	business	512
+AS212684	SOCAR TURKEY ENERJI A.S.	business	512
+AS212538	Poyrazwifi Limited Company	isp	512
+AS212269	AY TELEKOMUNIKASYON ILETISIM BILGISAYAR BILGI TEKNOLOJILERI ITHALAT IHRACAT SANAYI VE TICARET LIMITED STI	isp	512
+AS211996	VAKIF YATIRIM MENKUL DEGERLER ANONIM SIRKETI	business	512
+AS211711	FIBERNET TELEKOMUNIKASYON A.S.	isp	512
+AS211686	NETCORE BILISIM HIZMETLERI AS	hosting	512
+AS211467	Filika Internet ve Iletisim Hizmetleri A.S.	isp	512
+AS211384	LTS BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI	hosting	512
+AS210955	OBUGEN TEKNOLOJI YAZILIM DONANIM TELEKOMUNIKASYON VE DANISMANLIK HIZMETLERI LIMITED SIRKETI	hosting	512
+AS210949	SANAL SANTRAL TELEKOMUNIKASYON TICARET ANONIM SIRKETI	isp	512
+AS210835	WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI	hosting	512
+AS210690	Istanbul Arel Universitesi	education	512
+AS210658	TEKNOBIL TELEKOM INTERNET BILISIM VE ILETISIM HIZMETLERI Ltd. Sti.	isp	512
+AS210388	Hayal Host Internet Ve Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi	hosting	512
+AS210289	AKNET internet ve bilisim sistemleri limited sirketi	isp	512
+AS210020	MODEXI VERI HIZMETLERI LIMITED SIRKETI	hosting	512
+AS209435	Agdas Adapazari Gaz Dagitim A.S.	business	512
+AS207681	KKB KREDI KAYIT BUROSU ANONIM SIRKETI	business	512
+AS206959	Hitit Bilgisayar Hizmetleri Anonim Sirketi	hosting	512
+AS206561	AirMax Communication Ltd	isp	512
+AS206461	INTER-TECH BiLGi iSLEM VE PAZARLAMA TiCARET ANONiM SiRKETi	hosting	512
+AS206409	Ingenico Odeme Sistem Cozumleri AS	business	512
+AS205757	The Walt Disney Company Medya Eglence Ve Ticaret Limited Sirketi	business	512
+AS204324	ADNET INTERNET VE ILETISIM HIZM.TIC.LTD.STI.	isp	512
+AS203248	Burak Buylu trading as BurtiNET Internet Hizmetleri	hosting	512
+AS202444	KOC HOLDING A.S.	business	512
+AS202159	Sky Atlas Iletisim Sanayi ve Ticaret Anonim Sirketi	hosting	512
+AS202124	Haypem Iletisim Limited	isp	512
+AS201584	SUPERPAY TEKNOLOJI ANONIM SIRKETI	hosting	512
+AS201233	YONCA DURAN	hosting	512
+AS201032	PASIFIK TELEKOM ILETISIM SANAYI TICARET LTD STI	isp	512
+AS200977	Sunucuyeri Internet Bilgisayar Turizm Sanayi Ve Dis Ticaret Limited Sirketi	hosting	512
+AS200673	PAKA TEKNOLOJI DANISMANLIK EGITIM HIZ. TIC. LTD. STI.	hosting	512
+AS200571	Forinvest Yazilim Ve Teknoloji Hizmetleri Anonim Sirketi	business	512
+AS200404	Jetnet Telekom Int. Bil.Hiz. San and Tic. LTD	isp	512
+AS200193	ITM Yazilim Bilgisayar Sistemleri ve Danismanlik Tic. Ltd. Sti	hosting	512
+AS198659	Tera Yatirim Bankasi A.S	business	512
+AS197042	Aktif Yatirim Bankasi A.S.	business	512
+AS134392	BOMBORA TECHNOLOGIES Anycast system	hosting	512
+AS13204	TERA YATIRIM MENKUL DEGERLER A.S.	business	512
+AS13102	Istanbul Bilgi Universitesi	education	512
+AS8363	KOC UNIVERSITY	education	256
+AS64447	Fiba Holding A.S.	hosting	256
+AS62456	WEBHANE Bilisim Teknolojileri Ticaret Limited Sirketi	hosting	256
+AS62433	NN HAYAT VE EMEKLILIK ANONIM SIRKETI	hosting	256
+AS62369	Quick Sigorta A.S.	business	256
+AS62274	KIBRIS IKTISAT BANKASI LIMITED (CYPRUS ECONOMY BANK LIMITED)	business	256
+AS62026	FINK TELEKOMUNIKASYON HIZMETLERI TICARET LIMITED SIRKETI	business	256
+AS61420	Dogus Planet Elektronik Ticaret ve Bilisim Hizm A.S	business	256
+AS60946	A1 CAPITAL YATIRIM MENKUL DEGERLER ANONIM SIRKETI	business	256
+AS60881	T.C. Basbakanlik Afet ve Acil Durum Yonetim Baskanligi	government	256
+AS60659	TURKIYE IHRACAT KREDI BANKASI A.S.	government	256
+AS60596	KIBRIS TURK KOOPERATIF MERKEZ BANKASI LTD.	business	256
+AS60442	DT Teknoloji Anonim Sirketi	hosting	256
+AS60093	Bupa Acibadem Sigorta A.S.	business	256
+AS60083	ASYA KATILIM BANKASI A.S	business	256
+AS59887	DT Iletisim Hizmetleri A.S.	business	256
+AS59490	MNG Havayollari ve Tasimacilik A.S.	business	256
+AS59489	Anadolu Bilisim Hizmetleri A.S.	hosting	256
+AS58295	Integral Menkul Degerler Anonim Sirketi	business	256
+AS58261	SALIHLI WIFI TELEKOMUNIKASYON ILETISIM HIZ SAN TIC LTD STI	business	256
+AS58183	BANVIT BANDIRMA VITAMINLI YEM SANAYI A.S	business	256
+AS58156	HALK YATIRIM MENKUL DEGERLER A.S	business	256
+AS58109	STARCARD BANKA KARTLARI MERKEZI LTD	business	256
+AS57886	HAVELSAN HAVA ELEKTRONIK SANAYI VE TICARET A.S.	business	256
+AS57419	FLEX TR INFORMATION INDUSTRY TRADE LIMITED COMPANY	hosting	256
+AS57302	mernet internet hizmetleri elektronik esya ithalat ihracat sanayi ve ticaret limited sirketi	business	256
+AS56998	Info Yatirim Menkul Degerler A.S.	business	256
+AS56715	Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi	hosting	256
+AS56579	OSMANLI YATIRIM MENKUL DEGERLER A.S	hosting	256
+AS56509	ALNUS YATIRIM MENKUL DEGERLER A.S.	business	256
+AS5458	QNB Finans Yatirim Menkul Degerler A.S.	hosting	256
+AS52117	HOBIM ARSIVLEME VE BASIM HIZMETLERI A.S.	hosting	256
+AS52093	ETHICA SIGORTA A.S.	business	256
+AS51915	PUKTA BILISIM ANONIM SIRKETI	hosting	256
+AS51739	Is Yatirim Menkul Degerler A.S.	business	256
+AS51729	Air Ties Kablosuz iletisim San. ve Dis Tic. A.S.	business	256
+AS51585	Acibadem Saglik Hizmet ve Ticaret A.S	business	256
+AS51575	Yurtici kargo servisi a.s.	hosting	256
+AS51566	TURK PATENT ENSTITUSU	government	256
+AS51533	Turkish Bank A.S.	business	256
+AS51476	Talem Yatirim Insaat ve Ticaret AS.	business	256
+AS51435	Turkish Yatirim Menkul Degerler A.S	business	256
+AS51361	ALARMNET GUVENLIK HIZMETLERI ANONIM SIRKETI	business	256
+AS51206	Turk Hava Yollari Technic A.S.	business	256
+AS51174	ENERJISA ENERJI URETIM A.S	business	256
+AS51021	Mavi Giyim San.Tic.A.S.	business	256
+AS50913	Sittnak Uluslararasi Nakliyat A.S.	business	256
+AS50528	Turkiye Buyuk Millet Meclisi	government	256
+AS50135	Enerji Piyasalari Isletme A.S.	business	256
+AS50111	Seker Yatirim Menkul Degerler AS	business	256
+AS49887	Demirer Kablo Tesisleri Sanayi ve Ticaret A.S.	business	256
+AS49875	Edenred Kurumsal Cozumler A.S.	hosting	256
+AS49843	Kardem Tekstil Sanayi Ve Ticaret A.S.	business	256
+AS49805	Berke FINCANCI	hosting	256
+AS49672	CELEBI HOLDING A.S.	business	256
+AS49563	Multinet Kurumsal Hizmetler Anonim Sirketi	business	256
+AS49177	AXA SIGORTA A.S.	hosting	256
+AS49029	IZMAD BILISIM INTERNET HIZ. BILGI TEKN. ITH. IHR. SAN. TIC. LTD. STI.	isp	256
+AS49027	Turkiye Sinai Kalkinma Bankasi Anonim Sirketi	business	256
+AS48814	Netbone Telekomunikasyon A.S.	isp	256
+AS48779	Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.	hosting	256
+AS48286	Mavi Net Elektronik iletisim Bil.Hizm.San.ve Tic.Ltd.Sti.	isp	256
+AS48207	GLB Bulut Teknolojisi Limited Sirketi	hosting	256
+AS47803	BUKA TEKNOLOJI HIZMETLERI A.S.	hosting	256
+AS47773	Binet Telekomunikasyon LTD. STI.	isp	256
+AS47387	TURKIYE HAYAT VE EMEKLILIK A.S.	business	256
+AS47190	GUZEL ENERJI AKARYAKIT A.S.	business	256
+AS47185	Havaalani Isletme ve Havacilik Endustrileri	business	256
+AS44922	Emre Erim trading as Medyabim Datacenter	hosting	256
+AS44766	Akdeniz Insaat ve Egitim Hizmetleri A.S	business	256
+AS44713	Teknoser Bilgisayar Teknik Hizmetler Sanayi Ve Dis Ticaret A.S	business	256
+AS44389	Fine Otel Turizm Isletmecilik A.S.	business	256
+AS44274	CINER YAYIN HOLDING A.S.	business	256
+AS44261	HDI Sigorta AS	business	256
+AS43582	ABY Plastik Ambalaj ve Enerji SAN.VE TIC.A.S.	business	256
+AS43488	DILER HOLDING AS	business	256
+AS43425	KURYENET MOTORLU KURYECILIK VE DAGITIM HIZMETLERI A.S.	business	256
+AS43300	Mars Lojistik Grup A.S.	business	256
+AS43210	Bankpozitif Kredi Ve Kalkinma Bankasi A.S.	business	256
+AS43116	Istanbul Ticaret Odasi	business	256
+AS42999	Ekol Lojistik A.S.	business	256
+AS42967	ABDI IBRAHIM ILAC SAN.VE TIC.A.S.	business	256
+AS42736	AKPET AKARYAKIT DAGITIM A.S.	business	256
+AS42716	Assan Bilisim A.S.	business	256
+AS41933	IPRAGAZ A.S.	business	256
+AS41755	EMEKLILIK GOZETIM MERKEZI A.S.	business	256
+AS41686	Aras Kargo Yurtici Yurdisi Tasimacilik	business	256
+AS41683	Earth Telekomunikasyon Bilisim Internet Arge Yazilim Hizmetleri Tic. Ltd. Sti.	hosting	256
+AS41417	TURKIYE JOKEY KULUBU DERNEGI AT YETISTIRICILIGI VE YARISLARI IKTISADI ISLETMESI	business	256
+AS41324	TEMSA SKODA SABANCI ULASIM ARACLARI A.S.	business	256
+AS39253	Coskunoz Holding A.S.	business	256
+AS35331	BILGI BIRIKIM SISTEMLERI ELEKTRONIK VE BILGISAYAR ENDUSTRISI MUHENDISLIK HIZ.SAN.VE TIC.LTD.STI.	business	256
+AS35079	Mapfre Sigorta AS	business	256
+AS34736	TOYOTA OTOMOTIV SANAYI TURKIYE A.S.	business	256
+AS34398	ETS Ersoy Turistik Servisleri A.S.	hosting	256
+AS34162	Arkas Holding A.S.	hosting	256
+AS34117	Oyak Yatirim Menkul Degerler A.S.	hosting	256
+AS33960	Asya Katilim Bankasi A.S.	business	256
+AS33910	SIGORTA BILGI VE GOZETIM MERKEZI	business	256
+AS31704	Private American Robert College	education	256
+AS31674	T.C. Maliye Bakanligi Gelirler Genel Mudurlugu	government	256
+AS31486	VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI	hosting	256
+AS31307	Yapi Kredi Yatirim Menkul Degerler A.S.	business	256
+AS31085	Viking Turizm ve Ticaret AS	business	256
+AS30840	NETAS BILISIM TEKNOLOJILERI ANONIM A.S.	business	256
+AS30758	DT Iletisim Hizmetleri A.S.	business	256
+AS29221	AGESA HAYAT VE EMEKLILIK ANONIM SIRKETI	business	256
+AS28781	PAYTEN TEKNOLOJI ANONIM SIRKETI	business	256
+AS2600	ICBC TURKEY BANK A.S	business	256
+AS25594	Calik Holding A.S	business	256
+AS25566	Sosyal Guvenlik Kurumu(SGK)	government	256
+AS24944	Arena Bilgisayar San. ve Tic A.S	business	256
+AS24891	ORDU YARDIMLASMA KURUMU	business	256
+AS216394	Netlen Internet Hizmetleri Ltd. Sti.	hosting	256
+AS216356	TURKIYEM NET ILETISIM VE TELEKOMUNIKASYON HIZMETLERI A.S.	hosting	256
+AS216209	CELIL KILIC	hosting	256
+AS216099	EMRE ANIL ARSLAN	hosting	256
+AS216082	MOBILISIM ILETISIM A.S.	hosting	256
+AS216076	EFSANENET BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI	hosting	256
+AS215961	BTEXPER BILISIM DANISMANLIK ve DESTEK HIZMETLERI LTD STI	hosting	256
+AS215919	Sunucupark Bilgi Teknolojileri ve Iletisim Sanayi Ticaret Ltd. Sirketi	hosting	256
+AS215812	EnkiTech Bilisim Limited Sirketi	hosting	256
+AS215723	FIBA TELEKOM Anonim Sirketi	business	256
+AS215710	HDM DIGITAL SERVICES TRADE LIMITED COMPANY	hosting	256
+AS215640	GAMEGAMI BILISIM ANONIM SIRKETI	hosting	256
+AS215618	Oksitweb Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi	hosting	256
+AS215612	TOM DIGITAL TEKNOLOJI VE DANISMANLIK ANONIM SIRKETI	hosting	256
+AS215585	WIFITURK INTERNET VE BILISIM TEKNOLOJILERI TIC.LTD.STI.	business	256
+AS215559	GETIR TEKNOLOJIK HIZMETLER A.S.	business	256
+AS215411	danis danisman	hosting	256
+AS215347	AY WIFI TELEKOMUNIKASYON SANAYI VE TICARET LIMITED SIRKETI	business	256
+AS215264	TEKNOSA IC VE DIS TIC A.S.	hosting	256
+AS215249	GOZEN HOLDING ANONIM SIRKETI	business	256
+AS215123	QZ Teknoloji Anonim Sirketi	hosting	256
+AS215033	SYNCHRON BILISIM ILETISIM INTERNET SANAYI VE TICARET LIMITED SIRKETI	hosting	256
+AS214972	Lobi Bilgi Teknolojileri A.S.	hosting	256
+AS214907	NOKTAWIFI TELEKOMUNIKASYON TICARET LIMITED SIRKETI	business	256
+AS214876	Ahmet Aydogan trading as APRILSOFT YAZILIM VE HOSTING	hosting	256
+AS214854	VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI	hosting	256
+AS214823	DORUK HOSTING VE BILISIM TEKNOLOJILERI A.S.	hosting	256
+AS214751	Tugay Toksoz	hosting	256
+AS214584	OSMAN ALTINTAS	business	256
+AS214509	ASIR YATIRIM BANKASI A.S.	hosting	256
+AS214449	VERA BYTE Telekomunikasyon Anonim Sirketi	hosting	256
+AS213107	Topaloglu Bilisim ve Teknoloji Hiz. San. Tic. Ltd. Sti.	hosting	256
+AS212945	INT TELEKOMUNIKASYON VE INTERNET HIZ.SAN.TIC.LTD.STI	isp	256
+AS212829	Strnet Iletisim Sanayi ve tic. Ltd. Sti	isp	256
+AS212757	Gamegami Bilisim A.S.	hosting	256
+AS212549	KOYCEGIZ BILISIM HAB.TEK.SAN.TIC.LTD.STI.	isp	256
+AS212069	Hostixo Internet Bilisim Yazilim Hizmetleri Tic. ve San. Ltd. Sti.	hosting	256
+AS211964	WEBHELP CAGRI MERKEZI ve MUSTERI HIZMETLERI A.S	hosting	256
+AS211887	CABUKNET TELEKOM VE BILGI TEKNOLOJILERI LIMITED STI.	isp	256
+AS211863	KOBIKOM TELEKOMUNIKASYON BILISIM HIZMETLER SAN VE TIC AS	business	256
+AS211735	KOCAELI INTERNET SANAYI VE TICARET LIMITED SIRKETI	isp	256
+AS211558	MICRONET ILETISIM HIZMETLERI TIC. LTD.STI.	isp	256
+AS211496	SURNET ILETISIM TEKNOLOJI TIC VE SAN LTD STI	isp	256
+AS211425	Lodosnet Bilisim Elektronik Haberlesme Ithalat Ihracat Sanayi ve Ticaret Ltd. Sti.	isp	256
+AS211335	BINBIR NET INTERNET BILISIM VE HABERLESME TEKNOLOJI SANAYI TICARET LIMITED SIRKETI	isp	256
+AS211201	SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRIM ANONIM SIRKETI	business	256
+AS211114	Remzi Ozkarabulut	hosting	256
+AS211104	BATI EGE BILISIM VE ILETISIM HIZMETLERI SANAYI VE TICARET LTD.STI.	isp	256
+AS210943	INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SAN.TIC.LTD.STI.	isp	256
+AS210854	EBEBEK MAGAZACILIK ANONIM SIRKETI	business	256
+AS210681	ALTIPARMAK TELEKOMUNIKASYON TEK.BILISIM HIZM.SAN.TIC.LTD.STI	isp	256
+AS210655	MEKROTIK TELEKOMUNIKASYON LIMITED SIRKETI	isp	256
+AS210618	Exodus Danismanlik Sanayi ve Ticaret Ltd. Sti.	hosting	256
+AS210588	MUGLA METROPOLITAN MUNICIPALITY	business	256
+AS210517	FUZUL TASARRUF FINANSMAN A.S.	business	256
+AS210484	MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI	business	256
+AS210458	YAKANET ELEKTRONIK HABERLESME HIZMETLERI TICARET LIMITED SIRKETI	isp	256
+AS210410	NETPRIME TELEKOM SAN. ve TIC. LTD.STI	isp	256
+AS209727	UNIFREE DUTY FREE ISLETMECILIGI ANONIM SIRKETI	business	256
+AS20967	TURKIYE HALKBANKASI A.S.	hosting	256
+AS209140	ICDAS CELIK ENRJI TERSANE VE ULASIM SANAYI AS	business	256
+AS209127	BULUTFON TELEKOMUNIKASYON SAN ve TIC AS	business	256
+AS208916	Pasha Yatirim Bankasi A.S.	hosting	256
+AS208901	Sabanci Dijital Teknoloji Hizmetleri A.S.	business	256
+AS208880	YAPI VE KREDI BANKASI A.S.	business	256
+AS20864	Turkiye Sise ve Cam Fabrikalari A.S.	business	256
+AS208198	Nese Mala trading as Moon Dc	business	256
+AS207629	Idebil Teknoloji Limited Sirketi	hosting	256
+AS207553	Vuhuv Telekomunikasyon A.S.	business	256
+AS207519	TEPENET INTERNET TELEKOMUNiKASYON iLETiSiM LiMiTED SiRKETi	isp	256
+AS207211	Uskudar Belediyesi	business	256
+AS207024	CLOUDCELL TELEKOMUNIKASYON A.S.	business	256
+AS206806	TACIRLER YATIRIM MENKUL DEGERLER.A.S.	business	256
+AS206670	MIRCOM BILISIM TELEKOMUNIKASYON SANAYI TICARET LTD. STI.	isp	256
+AS206595	SUTAS SUT URUNLERI A.S.	business	256
+AS206558	KDSL TELEKOMN. INTRN. BIL. HIZMET. ELEKT. SAN TIC. LTD. STI.	isp	256
+AS206469	SOLVELINE TELEKOMUNIKASYON ILETISIM HIZM.TIC.LTD.STI.	isp	256
+AS206271	Fatih Unlu	hosting	256
+AS206050	ELITNET TELEKOMUNIKASYON INTERNET VE ILETISIM HIZ.TIC LTD.STI.	isp	256
+AS205782	TUBITAK NATIONAL METROLOGY INSTITUTE	government	256
+AS205416	AYTEMIZ AKARYAKIT DAGITIM A.S	hosting	256
+AS204726	A Teknoloji Yatirim ve Gelistirme Limited Sirketi	hosting	256
+AS204529	TOFAS TURK OTOMOBIL FABRIKASI A.S.	business	256
+AS204223	Serverplance Bilisim Ve Telekomunikasyon Hizm. Ltd. Sti.	hosting	256
+AS204054	Dogus Yayin Grubu A.S	business	256
+AS203657	SAKNET BILISIM TELEKOMUNIKASYON SAN. TIC. LTD.STI.	isp	256
+AS203634	Baskent Elektrik Dagitim A.S.	business	256
+AS203611	Yapi Kredi Yatirim Menkul Degerler A.S.	business	256
+AS203587	Antvvifi Bilisim ve Telekomunikasyon Hiz. San. ve Ticaret LTD STI	isp	256
+AS203511	OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI	hosting	256
+AS203445	Elektronik Bilgi Guvenligi AS	business	256
+AS203436	IDAN Internet Hizmetleri Sanayi ve Ticaret Limited Sirketi	hosting	256
+AS203321	100 DERECE BILISIM A.S.	hosting	256
+AS203285	GESNET ILETISIM BILESIM HIZMETLERI BILGISAYER YAZILIM TELEKOMUNIKASYON SAN. VE TIC. LTD. STI.	isp	256
+AS203259	Zero Veri Merkezi Teknolojileri A.S	hosting	256
+AS202924	SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI	business	256
+AS202900	ITS Iletisim Teknoloji Sistem Yazilim Danismanlik Hizmetleri Anonim Sirketi	business	256
+AS202588	Nurol Yatirim Bankasi Anonim Sirketi	business	256
+AS201218	Kazanbel Net Iletisim Bilgi Teknoloji Tic Ltd Sti	isp	256
+AS201064	Ideal Hosting Teknoloji A.S.	business	256
+AS200972	Emin Net Telekomunikasyon Sanayi Ve Ticaret Limited Sirketi	hosting	256
+AS200385	KORP YAZILIM VE BILGI TEKNOLOJILERI	hosting	256
+AS200231	TE BILISIM YAZILIM INTERNET KIRALAMA HIZMETLERI SAN. VE TIC. LTD. STI.	hosting	256
+AS200190	Owligo Bilisim Sistemleri A.S	business	256
+AS200075	ULTRANET INTERNET ILETISIM TEKNOLOJILERI SAN.VE TIC.LTD.STI.	isp	256
+AS200040	Netgigabit iletisim Hizmetleri Ltd. Sti	isp	256
+AS200006	Efinans Elektronik Ticaret ve Bilisim Hizmetleri A.S.	hosting	256
+AS199964	Mehmet Yaradanakul trading as Iris Yazilim ve Bilisim Hizmetleri	hosting	256
+AS199812	KKB KREDI KAYIT BUROSU A.S.	business	256
+AS199797	Sentreva Internet Hizmetleri Anonim Sirketi	hosting	256
+AS199515	PAYTEN TEKNOLOJI ANONIM SIRKETI	hosting	256
+AS199505	T.C. Aile ve Sosyal Politikalar Bakanligi	government	256
+AS199333	Yapi ve Kredi Bankasi Genel Mudurluk	business	256
+AS199100	YUEM GRUP TELEKOMUNIKASYON TICARET LIMITED SIRKETI	isp	256
+AS199038	Inter Partner Assistance Yardim ve Destek Hizmetleri Ticaret Limited Sirketi	hosting	256
+AS198662	IREMNET TELEKOMUNIKASYON TEKNOLOJI SAN ve TIC LTD STI	isp	256
+AS198520	SahilNET Telekomunikasyon Hizmetleri Ltd. Sti.	isp	256
+AS198511	Arvento Mobil Sistemler A.S.	business	256
+AS198236	BILYONER INTERAKTIF HIZMETLER ANONIM SIRKETI	hosting	256
+AS197941	MENGERLER TICARET TURK ANONIM SIRKETI	business	256
+AS197916	BIL-TIM BILGISAYAR HIZMETLERI ANONIM SIRKETI	hosting	256
+AS197894	PRONET GUVENLIK HIZMETLERI ANONIM SIRKETI	business	256
+AS197851	BURGAN YATIRIM MENKUL DEGERLER ANONIM SIRKETI	hosting	256
+AS197748	MERCAN NET BILISIM TEKNOLOJILERI TIC. LTD.STI.	isp	256
+AS197644	Emre Ozcelik	hosting	256
+AS197597	AYTEMIZ AKARYAKIT DAGITIM A.S	hosting	256
+AS197428	ROKO GAME TEKNOLOJI ANONIM SIRKETI	hosting	256
+AS197386	ARAP TURK BANKASI ANONIM SIRKETI	hosting	256
+AS197130	SOLMAZ GUMRUK MUSAVIRLIGI A.S	business	256
+AS196971	BEYKOZ BELEDIYESI	business	256
+AS196627	HEDEF GRUP SATIS DAGITIM SAN.VE TIC.A.S.	business	256
+AS1885	Seker Sigorta AS	business	256
+AS15819	Global Menkul Degerler SA	business	256
+AS13278	TEI(TUSAS MOTOR SANAYI A.S.)	business	256
+AS12873	Strateji Menkul Degerler A.S.	business	256
+AS8705	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS8589	Nics Telekomunikasyon Anonim Sirketi	inactive	0
+AS8505	Orta Dogu Yazilim Hizmetleri A. S.	inactive	0
+AS6822	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS6755	Turk Telekomunikasyon Anonim Sirketi	inactive	0
+AS62158	SUMER VARLIK YONETIM A.S.	inactive	0
+AS62148	SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI	inactive	0
+AS62085	KURESEL BETA TEKNOLOJI TELEKOMUNIKASYON SANAYI TICARET LTD STI	inactive	0
+AS62072	ISTANBUL BUYUKSEHIR BELEDIYESI	inactive	0
+AS6205	HizliNet Teknoloji A.S.	inactive	0
+AS61220	NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI	inactive	0
+AS61148	DT Teknoloji Anonim Sirketi	inactive	0
+AS61080	Netbone Telekomunikasyon A.S.	inactive	0
+AS60683	GEO TEKNOLOJI A.S	inactive	0
+AS60652	SOMPO SIGORTA A.S.	inactive	0
+AS60369	Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.	inactive	0
+AS60289	Koru Sigorta AS	inactive	0
+AS60250	INVEST-AZ YATIRIM MENKUL DEGERLER ANONIM SIRKETI	inactive	0
+AS60232	SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticaret Ltd. Sti.	inactive	0
+AS60152	Turkish Aerospace Industries INC	inactive	0
+AS59805	Enerji Piyasasi Duzenleme Kurumu	inactive	0
+AS59510	GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS59487	GENEL ENEGRY YONETIM HIZMETLERI A.S.	inactive	0
+AS58348	BAYER TURK KIMYA SANAYI LIMITED SIRKETI	inactive	0
+AS58198	PARK YERI ILETISIM INTERNET PAZARLAMA TANITIM HIZMETLERI TICARET VE SANAYI A.S.	inactive	0
+AS58018	Mustafa Enes Akdeniz trading as OYUN CEVHERI	inactive	0
+AS57669	Nrp Teknoloji Limited Sirketi	inactive	0
+AS57621	Bursabil Teknoloji A.S.	inactive	0
+AS57610	YSR Bilisim Teknolojileri Telekomunikasyon Internet ve Danismanlik Hizmetleri Tic. Ltd. Sti.	inactive	0
+AS57600	FIGEN YAZILIM EVI TIC.LTD.STI.	inactive	0
+AS57598	ALKIM BASIN YAYIN ILETISIM LTD. STI.	inactive	0
+AS57447	DLL TEKNOLOJI VERI MERKEZI HIZMETLERI ANONIM SIRKETI	inactive	0
+AS57397	SPEX YAZILIM VE SIBER GUVENLIK HIZMETLERI ANONIM SIRKETI	inactive	0
+AS57017	Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri	inactive	0
+AS56980	Veganet Teknolojileri ve Hizmetleri LTD STI	inactive	0
+AS56841	Ozkan TOPAL	hosting	0
+AS56363	Markum Bilisim Teknolojileri Tic. A.S.	inactive	0
+AS56325	MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI	inactive	0
+AS5422	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS51722	TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.	inactive	0
+AS50540	DT Iletisim Hizmetleri A.S.	inactive	0
+AS50504	Yeditepe University	inactive	0
+AS50390	TV8 TV YAYINCILIK ANONIM SIRKETI	inactive	0
+AS50225	OMER AY	hosting	0
+AS50139	ENFORUS BILGI VE OPERASYON TEKNOLOJILERI ANONIM SIRKETI	inactive	0
+AS49565	Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi	inactive	0
+AS49534	BANQ TECH BILGI VE ILETISIM TEKNOLOJILERI LIMITED SIRKETI	inactive	0
+AS49299	DGN TEKNOLOJI A.S.	inactive	0
+AS49094	Omer GOLGELI	inactive	0
+AS48953	Broadmax Iletisim Ltd	hosting	0
+AS48660	TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi	inactive	0
+AS48497	Avencom Telekom Hizmetleri Ltd Sti	inactive	0
+AS48215	Duhan Berk Bal	inactive	0
+AS48170	Ibrahim SEN	inactive	0
+AS47930	PRISMA BILISIM DANISMANLIK SANAYI VE TICARET ANONIM SIRKETI	inactive	0
+AS47824	Rising Digital Teknoloji Ltd. Sti.	hosting	0
+AS47607	TARIS ZEYTIN VE ZEYTINYAGI BIRLIGI	inactive	0
+AS47298	COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.	inactive	0
+AS47276	HDI Sigorta AS	inactive	0
+AS47238	Koray Yapi Endustri Tic. A.S.	inactive	0
+AS44337	UPNET Telekomunikasyon Ltd. Sti.	inactive	0
+AS43945	Mustafa Enes Akdeniz trading as OYUN CEVHERI	inactive	0
+AS43856	HDI Sigorta AS	inactive	0
+AS43738	BAKNET ILETISIM VE BILGISAYAR PAZ. SAN. VE TIC. A.S.	inactive	0
+AS43725	Soyak Holding A.S	inactive	0
+AS43642	YEDITEPE BEYNELMILEL OTELCILIK TURIZM VE TICARET A.S.	inactive	0
+AS43562	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS43322	BELBIM ELEKTRONIK PARA VE ODEME HIZMETLERI AS	inactive	0
+AS43276	YEDITEPE BEYNELMILEL OTELCILIK TURIZM VE TICARET A.S.	inactive	0
+AS43239	Barsan Global Lojistik Anonim Sirketi	inactive	0
+AS43111	Ipv4 Bilisim Ltd. Sti.	inactive	0
+AS42752	Fresenius Medikal Hizmetler A.S.	inactive	0
+AS42701	Deutsche Bank - TR	inactive	0
+AS42494	Equinix Turkey Data Merkezi Uretim insaat Sanayi ve Ticaret Anonim Sirketi	inactive	0
+AS42348	BORUSAN MANNESMANN BORU SANAYI VE TICARET A.S.	inactive	0
+AS42338	VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI	inactive	0
+AS42321	SHAYA MAGAZACILIK A.S.	inactive	0
+AS42169	Yapi Kredi Emeklilik A.S	inactive	0
+AS42055	Tamer Telekom Telekomunikasyon Bilgisayar, Elektronik, Yazilim, Donanim San. ve Tic. Ltd. Sti.	inactive	0
+AS41374	Casper Bilgisayar Sistemleri A.S.	inactive	0
+AS39807	Reysas Tasimacilik ve Lojistik Tic. A.S.	inactive	0
+AS39565	Delta Petrol Urunleri Tic. A.S.	inactive	0
+AS39427	GittiGidiyor Bilgi Teknolojileri San.Tic.A.S.	inactive	0
+AS39336	AKA Bilisim Yazilim Arge Ins. Taah. San. Tic. A.S.	inactive	0
+AS39185	Kadikoy Belediyesi	inactive	0
+AS35547	H. Bayraktar Yatirim Holding A.S.	inactive	0
+AS35403	Karayollari Genel Mudurlugu	inactive	0
+AS35211	T Medya Yatirim San. Ve Tic. A.S.	inactive	0
+AS35188	ALTOSEC BILISIM Anonim Sirketi	inactive	0
+AS34828	Ciklet Tasarim Iletisim ve Org. Tic. Ltd. Sti.	inactive	0
+AS34818	DEMIROREN DIGITAL DAGITIM A.S.	inactive	0
+AS34595	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS34565	FIXNET Telekomunikasyon Limited Sirketi	inactive	0
+AS34388	Netinternet Bilisim Teknolojileri AS	inactive	0
+AS34104	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS33994	Labris Teknoloji Bilisim Cozumleri A.S.	inactive	0
+AS33809	Istanbul Kultur University	inactive	0
+AS31691	Telia Sonera Telekomunikasyon Hizmetleri A.S.	inactive	0
+AS31654	Vodafone Net Iletisim Hizmetler AS	inactive	0
+AS31647	TASARRUF MEVDUATI SIGORTA FONU	inactive	0
+AS31274	Turkish Treasury	inactive	0
+AS30874	Oyak Yatirim Menkul Degerler A.S.	inactive	0
+AS30808	Viking Turizm ve Ticaret AS	inactive	0
+AS29635	BANVIT-BANDIRMA VITAMINLI YEM SANAYI A.S	inactive	0
+AS29334	Prnet Halkla iliSkiler AraS. ve DeGer. Hiz. A.S.	inactive	0
+AS29179	Netonline Bilisim Sirketi LTD	inactive	0
+AS28845	BSH EV Aletleri San. ve Tic A.S	inactive	0
+AS24815	Istanbul Ticaret Universitesi	inactive	0
+AS24615	Cukurova University	inactive	0
+AS216416	Yildirim Internet Telekom Limited Sti.	hosting	0
+AS216393	Selim Yazicioglu	hosting	0
+AS216343	Mertcan Gokgoz	hosting	0
+AS216224	SAFAKNET TELEKOMUNIKASYON TICARET LIMITED SIRKETI	inactive	0
+AS216210	DIDIM NET ELEKTRONIK HABERLESME TICARET LIMITED SIRKETI	inactive	0
+AS216184	CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS216170	Datatelekom Bilgisayar Internet Bilisim Yazilim ve Telekomunikasyon Hizmetleri San ve Dis Tic Ltd Sti	inactive	0
+AS216163	Yemek Pay Elektronik Para ve Odeme Hizmetleri Anonim Sirketi	inactive	0
+AS216132	Yahya Murat Turgut	hosting	0
+AS216100	NS TELEKOMUNIKASYON LIMITED SIRKETI	inactive	0
+AS215944	Emre Aydogan	inactive	0
+AS215902	MARTELEKOM ILETISIM TELEKOMUNIKASYON HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS215900	Tulip Group Internet Erisim Hizmetleri Sanayi Ticaret Limited Sirketi	inactive	0
+AS215880	Netadim Bilisim Bilgisayar Yazilim Donanimlari Iletisim Ith. Ihr. San. Ve Tic. Ltd. Sti.	inactive	0
+AS215864	VATAN TELEKOMUNIKASYON HABERLESME INTERNET VE BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI	inactive	0
+AS215666	SERDAR OKAN	inactive	0
+AS215625	HASNET Bilgi Teknolojileri Ticaret Ltd. Sti.	inactive	0
+AS215620	Alp Furkan Kolan	inactive	0
+AS215516	Sebnem Kilinc	hosting	0
+AS215430	OBUGEN TEKNOLOJI YAZILIM DONANIM TELEKOMUNIKASYON VE DANISMANLIK HIZMETLERI LIMITED SIRKETI	inactive	0
+AS215340	GIDEK COM BILGISAYAR DANISMANLIK TICARET LIMITED SIRKETI	inactive	0
+AS215334	NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI	inactive	0
+AS215312	BBS BILISIM TEKNOLOJILERI SAN. VE TIC. LTD. STI.	inactive	0
+AS215267	Efekan Rasit Zeybek	inactive	0
+AS215246	Burak GULDOGAN	inactive	0
+AS215181	Cafer Latif	inactive	0
+AS215180	MAXX DC BILISIM HIZMETLERI TICARET ANONIM SIRKETI	inactive	0
+AS215145	OSAWI TELEKOMUNIKASYON TEKNOLOJI BILISIM HIZMETLERI VE TICARET LTD.STI	inactive	0
+AS215130	DUNYA KATILIM BANKASI ANONIM SIRKETI	inactive	0
+AS215124	SELCUK DEMIR trading as SDM GLOBAL AJANS	inactive	0
+AS215068	ENIYISUNUCUM VERI MERKEZI BILISIM HIZMETLERI TICARET VE SANAYI LIMITED SIRKETI	inactive	0
+AS214994	YUSUF OZTURK	inactive	0
+AS214941	UPCELL TELEKOMUNIKASYON LIMITED SIRKETI	inactive	0
+AS214846	TARIM SIGORTALARI HAVUZ ISLETMELESI ANONIM SIRKETI	inactive	0
+AS214800	Yigit Ulker	inactive	0
+AS214796	COMNET FIBER ALTYAPI HIZMETLERI ANONIM SIRKETI	inactive	0
+AS214755	NOKTAONLINE TELEKOMUNIKASYON LIMITED SIRKETI	inactive	0
+AS214719	Ismail Ozbay	inactive	0
+AS214690	Awael Iletisim Telekomunikasyon Ticaret Ltd. Sti.	inactive	0
+AS214608	Gazinet Internet Iletisim teknolojileri ltd. Sti.	inactive	0
+AS214593	Dias Bilisim ve Teknoloji Hizmetleri AS	inactive	0
+AS214588	ICS Bilisim Teknolojileri Danismanlik Hizmetleri A.S.	inactive	0
+AS214577	AHMET ALAGEYIK	inactive	0
+AS214539	BERAT SELIM PEKSEN	inactive	0
+AS214460	Can Bilgi Teknolojileri ve Telekomunikasyon Ltd.Sti.	inactive	0
+AS214447	B5 YAZILIM BILGI TEKNOLOJILERI SANAYI VE TICARET LTD.STI	inactive	0
+AS214436	Ali Koyuncu trading as Zumbak Hosting	inactive	0
+AS214382	Bulent Aydin trading as Hostlayici	inactive	0
+AS214381	Vaultr Veri Merkezi Hizmetleri Anonim Sirketi	inactive	0
+AS212742	PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi	inactive	0
+AS212512	Dogac Dovan	inactive	0
+AS212501	DEYTEK BILISIM MUHENDISLIK SANAYI VE TIC. A.S.	inactive	0
+AS212448	Turkbil Teknoloji Ltd. Sti.	inactive	0
+AS212433	Taksitbol Bilisim Teknolojileri Ith. Ihr. San. ve Tic. Ltd. Sti.	inactive	0
+AS212418	DSM ODEME VE ELEKTRONIK PARA HIZMETLERI ANONIM SIRKETI	inactive	0
+AS212388	LIFECELL DIGITAL LTD	inactive	0
+AS212369	ibrahim tufek	inactive	0
+AS212322	Turotto Bilisim Teknoloji Ltd. Sti.	inactive	0
+AS212315	IBP Capital Yonetim Danismanlik Limited Sirketi	inactive	0
+AS212193	VIVA INTERNET LIMITED SIRKETI	inactive	0
+AS212146	Ticimax Bilisim Teknolojileri A.S.	inactive	0
+AS212110	Netmax International	inactive	0
+AS212058	Istanbul Bilgi University	inactive	0
+AS211853	KOCAELI INTERNET SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS211814	Fortis Telekomunikasyon Sanayi Ticaret Ltd Sti	inactive	0
+AS211648	GNCNET TELEKOMUNIKASYON SAN. VE TIC. LTD.STI	inactive	0
+AS211634	GN Bilisim Ticaret ve Sanayi Limited Sirketi	inactive	0
+AS211578	Emrecan Oksum	inactive	0
+AS211422	Emre Aydogan	inactive	0
+AS211378	Sysrun Teknoloji Hiz. San. Tic. Ltd. Sti.	inactive	0
+AS211376	Kaan Girgin	inactive	0
+AS211327	Suleyman Furkan ARSLAN	inactive	0
+AS211318	HOSTUMO BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI	inactive	0
+AS211264	Jetnet Telekom Int. Bil.Hiz. San and Tic. LTD	inactive	0
+AS211237	FORTR TELEKOMUNIKASYON SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS211130	Emre Aydogan	inactive	0
+AS210981	Mehmet Uzunca	inactive	0
+AS21084	Gelir Idaresi Baskanligi (GIB)	inactive	0
+AS210708	Feniks internet ve iletisim hiz.san.tic.ltd.	inactive	0
+AS210705	Ozge Akdag	inactive	0
+AS210703	Mehmet Bozan Celikoglu	inactive	0
+AS210666	1 NET TELEKOM VE ILETISIM HIZMETLERI PAZARLAMA SANAYI TICARET LIMITED SIRKETI	inactive	0
+AS210628	DOGUS CAY VE GIDA MADDELERI URETIM PAZARLAMA ITHALAT IHRACAT ANONIM SIRKETI	inactive	0
+AS210608	NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI	inactive	0
+AS210599	Yunus Unal	inactive	0
+AS210594	TURK HAVA KURUMU UNIVERSITESI	inactive	0
+AS210566	HOSTINGET TELEKOMUNIKASYON TICARET LTD. STI.	inactive	0
+AS210497	Anadolu Birlik Holding Anonim Sirketi	inactive	0
+AS210479	SNI Teknoloji Hizmetleri A.S.	inactive	0
+AS210470	nCloud Bilgi Teknolojileri Anonim Sirketi	inactive	0
+AS210456	BIMEX BILISIM	inactive	0
+AS210439	Semih Mehmet CAN	inactive	0
+AS209708	Turkiye Emlak Katilim Bankasi A.S.	inactive	0
+AS20954	EKINCILER YATIRIM MENKUL DEGERLER A.S	inactive	0
+AS209466	Remzi Ozkarabulut	inactive	0
+AS209422	AYDINLI HAZIR GIYIM SANAYI VE TICARET ANONIM SIRKETI	inactive	0
+AS209395	Volkan SALIH	hosting	0
+AS209286	NETPLUS TELECOMUNICATION COMPANY	inactive	0
+AS209133	SURVIVOR Bilisim Teknolojileri A.S.	inactive	0
+AS20907	AKS TELEVIZYON REKLAMCILIK VE FILMCILIK SAN VE TIC A.S.	inactive	0
+AS208885	SERVISPOSTA ILETISIM VE YAZILIM HIZMETLERI SAN. TIC. LTD. STI.	inactive	0
+AS208745	Sakans Yazilim Teknolojileri Limited Sirketi trading as Sakans Yazilim	inactive	0
+AS208706	Mitues Global Teknolojiler Ltd. Sti.	inactive	0
+AS208510	Kahraman Tasdelen	inactive	0
+AS208475	Simya Yazilim Sanayi Ticaret Limited Sirketi	inactive	0
+AS208022	Mehmet Ali Kilic	hosting	0
+AS207863	Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.	inactive	0
+AS207792	Mitues Global Teknolojiler Ltd. Sti.	inactive	0
+AS207723	Netwifi Iletisim Hizmetleri Ltd. Sti.	inactive	0
+AS207643	HOSTINGET TELEKOMUNIKASYON TICARET LTD. STI.	inactive	0
+AS207508	Mehmet Uzunca	inactive	0
+AS207386	Agesa Hayat Ve Emeklilik AS	inactive	0
+AS207342	Cibra Otomotiv ve Bilisim Hizmetleri Ticaret A.S	inactive	0
+AS20728	Gunes Sigorta AS	inactive	0
+AS207272	Yoncu Bilisim Cozumleri Limited Sirketi	inactive	0
+AS207213	ICENET TELEKOM HIZMETLERI ANONIM SIRKETI	inactive	0
+AS206995	TEKNOFIRST VERI MERKEZI YAZILIM BILISIM SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS206938	Nesildc Bilisim Cozumleri Sanayi Ve Ticaret Limited Sirketi	inactive	0
+AS206877	OGUN BAYRAKTAR trading as OZBAY BILISIM INTERNET HIZMETLERI	inactive	0
+AS206739	Bilintel Bilisim Ticaret Limited Sirketi	inactive	0
+AS206648	Netdirekt A.S.	inactive	0
+AS206259	Corelux Internet ve Yazilim Hizmetleri Ticaret Limited Sirketi	inactive	0
+AS206227	Aerotek Bilisim Sanayi ve Ticaret AS	inactive	0
+AS20622	Perfetti Van Melle Gida San. ve Tic A.S.	inactive	0
+AS206172	FIPEK BILISIM ANONIM SIRKETI	inactive	0
+AS205951	Netlike Telekomunikasyon Hizmetleri AS	inactive	0
+AS20591	Ford Otosan Otomotiv Sanayi A.S.	inactive	0
+AS205407	Cagri Demir trading as Abay Bilisim Hizmetleri	inactive	0
+AS205351	Liberyum Danismanlik Bilgi Tek. Tic. A.S.	inactive	0
+AS205323	Eliptik Yazilim ve Ticaret A.S.	inactive	0
+AS204938	Elektrohat Bilgi Teknolojileri Ve Telekomunikasyon Hizmetleri A.S	inactive	0
+AS204843	STERLY VERI MERKEZI YAZILIM VE SIBER GUVENLIK HIZMETLERI A.S.	inactive	0
+AS204647	MIXNET TELEKOMUNIKASYON HIZMETLERI AS	inactive	0
+AS204123	Markum Bilisim Teknolojileri Tic. A.S.	inactive	0
+AS204097	Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti.	inactive	0
+AS204056	GizmoSwift Internet LTD	inactive	0
+AS204036	Ennova Telekom limited sirketi	inactive	0
+AS203862	IDEASOFT YAZILIM SANAYI VE TICARET AS.	inactive	0
+AS203753	Sembol Internet Hizmetleri ve Dis Ticaret Ltd	inactive	0
+AS203711	VDC TEKNOLOJI SISTEMLERI SAN. VE TICARET LTD. STI.	inactive	0
+AS203555	Emre Erim trading as Medyabim Datacenter	inactive	0
+AS203519	TURK FINANSAL TEKNOLOJI A.S.	inactive	0
+AS203418	Muslum KARACA	inactive	0
+AS203271	BNTPRO BILGI VE ILETISIM HIZMETLERI LIMITED SIRKETI	inactive	0
+AS203138	Ruby Teknoloji ve Ticaret Limited Sirketi	inactive	0
+AS203013	OTI HOLDING A.S.	inactive	0
+AS202972	Nese Mala trading as Moon Dc	inactive	0
+AS202711	Veganet Teknolojileri ve Hizmetleri LTD STI	inactive	0
+AS202678	CUZDAN ELEKTRONIK PARA VE ODEME HIZMETLERI ANONIM SIRKETI	inactive	0
+AS202620	Alastyr Telekomunikasyon A.S.	inactive	0
+AS202512	Aramis A Eraslan	inactive	0
+AS202358	HOSTYONEL BILISIM TEKNOLOJILERI LIMITED SIRKETI	inactive	0
+AS202143	Sarpcom Software Sirketi Limited	inactive	0
+AS202135	Dortek Kapi San. ve Tic. A.S.	inactive	0
+AS202071	Yesil Beyaz Web Tasarimi ve Programlama Bilgisayar Donanimi Turizm Elektronik Ith. Ihr. San. ve Tic. Ltd. Sti.	inactive	0
+AS202048	Cloud Teknoloji Bilisim Hizmetleri ve Ticaret A.S.	inactive	0
+AS201713	Veganet Teknolojileri ve Hizmetleri LTD STI	inactive	0
+AS201666	TTM Telekomunikasyon ve Iletisim Hizmetleri A.S.	inactive	0
+AS201585	CDN Internet Hizmetleri Anonim Sirketi	inactive	0
+AS201473	ERK PAZARLAMA VE GIYIM SANAYI TIC.A.S.	inactive	0
+AS200968	Davut Tunahan Karlibas	inactive	0
+AS200967	Erisim Saglayicilari Birligi	inactive	0
+AS200957	Fatih Unlu	inactive	0
+AS200913	ICISLERI	inactive	0
+AS200791	serdar selahattin kekik	inactive	0
+AS200774	OPLAVUS TEKNOLOJI TELEKOMUNIKASYON LTD. STI.	inactive	0
+AS200684	Bida Teknoloji Hizmetleri A.S.	inactive	0
+AS200443	ALTINSOFT BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI	hosting	0
+AS200334	Alptekin Sunnetci	hosting	0
+AS200194	NECEN TEKNOLOJI ANONIM SIRKETI	inactive	0
+AS200106	HATFIBER TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI	inactive	0
+AS200091	Osnet Internet Hizmetleri A.S.	inactive	0
+AS200016	Iyzi Odeme ve Elektronik Para Hizmetleri A.S.	inactive	0
+AS200010	Semih Mehmet CAN	inactive	0
+AS200002	Verimek Telekomunikasyon San Ve Tic. Ltd. Sti.	inactive	0
+AS199724	TeknoDC Bilisim Teknolojileri A.S.	inactive	0
+AS199686	Yesil Beyaz Web Tasarimi ve Programlama Bilgisayar Donanimi Turizm Elektronik Ith. Ihr. San. ve Tic. Ltd. Sti.	inactive	0
+AS199198	LINKSA YAZILIM GELISTIRME VE TICARET ANONIM SIRKETI	inactive	0
+AS198802	GOKHAN COBAN	inactive	0
+AS198652	ENES KOKEN	inactive	0
+AS198475	Furkan Gokce	inactive	0
+AS198234	SOLFIKS INTERNET Hizmetleri ve Danismanlik Tic. Ltd. Sti.	inactive	0
+AS198107	2B YALI DAGITIM PAZARLAMA GIDA SANAYI VE DIS TICARET LIMITED SIRKETI	inactive	0
+AS198078	AE OLFE TEKNOLOJI VE TICARET LIMITED SIRKETI	inactive	0
+AS197906	ONUR AIR TASIMACILIK ANONIM SIRKETI	inactive	0
+AS197842	Yusuf Baris Sarikaya trading as 'HOSTEGRO HOSTING SATIS'	inactive	0
+AS197792	Multimax Iletisim Limited	inactive	0
+AS197789	Kaan Girgin	inactive	0
+AS197633	Superonline Iletisim Hizmetleri A.S.	inactive	0
+AS197583	Markum Bilisim Teknolojileri Tic. A.S.	inactive	0
+AS197141	ECO TRADE AND DEVELOPMENT BANK	inactive	0
+AS16361	Sistem Co. Ltd.	inactive	0
+AS16069	ARMADA BILGISAYAR SISTEMLERI SANAYI VE TICARET A.S	inactive	0
+AS16041	Asist Ogretim Kurumlari Anonim Sirketi	inactive	0
+AS15797	Ericsson Telekomunikasyon Anonim Sirketi	inactive	0
+AS15656	Nano Iletisim Bilisim Hizmetleri Teknoloji Sistemleri Sanayi ve Ticaret Ltd Sirketi	inactive	0
+AS15642	GURAL INTERNET VE BILGISAYAR HIZMETLERI TOPRAK SANAYI VE TICARET ANONIM SIRKETI	inactive	0
+AS15460	TURKIYE HALKBANKASI A.S.	inactive	0
+AS15406	Fatih Universitesi	inactive	0
+AS15390	Selcuk Universitesi	inactive	0
+AS15374	GOONET TELEKOMUNIKASYON HIZMETLERI A.S.	inactive	0
+AS12858	MYNET INTERNET TEKNOLOJI ANONIM SIRKETI	inactive	0
