@@ -60,11 +60,10 @@ func main() {
 				query = ip
 			}
 		}
-
+		//
 		addr, addErr := netip.ParseAddr(query)
 		if addErr != nil {
 			return c.SendString("Invalid Protocol|1|" + query)
-			// panic(addErr)
 		}
 		//
 		var record struct {
@@ -75,12 +74,10 @@ func main() {
 		err = db.Lookup(addr).Decode(&record)
 		if err != nil {
 			return c.SendString("Invalid Structure|2|" + query)
-			// log.Panic(err)
 		}
 		//
 		if record.ASN == "" {
 			return c.SendString("Invalid Lookup|3|" + query)
-			// log.Panic(err)
 		}
 		//
 		return c.SendString(query + "|" + record.ASN + "|" + record.Name + "|" + record.Domain)
@@ -96,7 +93,6 @@ func main() {
 		addr, addErr := netip.ParseAddr(query)
 		if addErr != nil {
 			return c.SendString("Invalid Protocol|1|" + query)
-			// panic(addErr)
 		}
 		//
 		var record struct {
@@ -107,16 +103,11 @@ func main() {
 		err = db.Lookup(addr).Decode(&record)
 		if err != nil {
 			return c.SendString("Invalid Structure|2|" + query)
-			// log.Panic(err)
 		}
 		//
 		if record.ASN == "" {
 			return c.SendString("Invalid Lookup|3|" + query)
-			// log.Panic(err)
 		}
-		// fmt.Println(record.ASN)
-		// fmt.Println(record.Domain)
-		// fmt.Println(record.Name)
 		//
 		return c.SendString(query + "|" + record.ASN + "|" + record.Name + "|" + record.Domain)
 	})
